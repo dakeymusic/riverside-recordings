@@ -237,7 +237,7 @@ label{
 }
 
 #imgContainer{
-  background-image:url(/img/mixer-board.jpg);
+  background-image:url(./img/mixer-board.jpg);
   background-attachment: fixed;
   background-size: cover;
   width:auto;
@@ -495,7 +495,7 @@ grid-gap: 2em;
 }
 
 #quotePage{
-  background-image:url(/img/clients-quotePic.jpg);
+  background-image:url(./img/clients-quotePic.jpg);
   filter:grayscale(100);
   background-size:cover;
   background-position:bottom;
